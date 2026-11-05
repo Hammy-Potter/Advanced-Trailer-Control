@@ -2,7 +2,7 @@
 
 Independent trailer steering, axle-model control and shared suspension controls for ETS2. Designed for heavy haulage and modular trailer combinations.
 
-**Target build:** ETS2 1.61.1.9 · Windows x64 · DirectX 11
+**Target build:** ETS2 1.62.1.0 · Windows x64 · DirectX 11
 
 ## Features
 
@@ -59,3 +59,10 @@ Complete source is included in `Advanced-Trailer-Control-repository.zip` in this
 Advanced Trailer Control is an unofficial community plugin and is not affiliated with or endorsed by SCS Software.
 
 This plugin is distributed for personal and non-commercial use. No warranties are provided. Use at your own risk. It is advised against to make any changes to this plugin as it may lose some or most of its functionality.
+
+## v1.0.2 compatibility update
+
+Updated for ETS2 1.62.1.0, with revised trailer-chain/joint offsets, pose retrieval and bridge/MWT joint addresses, plus stricter executable/layout checks. Retains the v1.0.1 ST7 tracking fix. Confirmed working in-game by Potter Customs. Keep your existing JSON settings when updating.
+
+For ETS2 1.61.1.9, use release v1.0.1.
+
